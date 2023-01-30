@@ -1,0 +1,19 @@
+.cadd
+{   width:500px; 
+    height: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    border: 240px;
+    border-radius: 20px;
+    }
+
+.img-responsive{
+    width:300px;
+    margin-top: 5px; 
+    margin-left:88px;
+    margin-bottom:88px;
+    
+    
+}
